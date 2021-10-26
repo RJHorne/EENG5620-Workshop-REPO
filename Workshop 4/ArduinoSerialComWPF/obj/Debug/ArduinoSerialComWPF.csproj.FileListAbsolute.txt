@@ -1,0 +1,30 @@
+C:\Users\rjhor\Downloads\ArduinoSerialComWPF-master\ArduinoSerialComWPF-master\ArduinoSerialComWPF\bin\Debug\ArduinoSerialComWPF.exe.config
+C:\Users\rjhor\Downloads\ArduinoSerialComWPF-master\ArduinoSerialComWPF-master\ArduinoSerialComWPF\bin\Debug\ArduinoSerialComWPF.exe
+C:\Users\rjhor\Downloads\ArduinoSerialComWPF-master\ArduinoSerialComWPF-master\ArduinoSerialComWPF\bin\Debug\ArduinoSerialComWPF.pdb
+C:\Users\rjhor\Downloads\ArduinoSerialComWPF-master\ArduinoSerialComWPF-master\ArduinoSerialComWPF\obj\Debug\ArduinoSerialComWPF.csproj.AssemblyReference.cache
+C:\Users\rjhor\Downloads\ArduinoSerialComWPF-master\ArduinoSerialComWPF-master\ArduinoSerialComWPF\obj\Debug\MainWindow.g.cs
+C:\Users\rjhor\Downloads\ArduinoSerialComWPF-master\ArduinoSerialComWPF-master\ArduinoSerialComWPF\obj\Debug\App.g.cs
+C:\Users\rjhor\Downloads\ArduinoSerialComWPF-master\ArduinoSerialComWPF-master\ArduinoSerialComWPF\obj\Debug\ArduinoSerialComWPF_MarkupCompile.cache
+C:\Users\rjhor\Downloads\ArduinoSerialComWPF-master\ArduinoSerialComWPF-master\ArduinoSerialComWPF\obj\Debug\ArduinoSerialComWPF_MarkupCompile.lref
+C:\Users\rjhor\Downloads\ArduinoSerialComWPF-master\ArduinoSerialComWPF-master\ArduinoSerialComWPF\obj\Debug\MainWindow.baml
+C:\Users\rjhor\Downloads\ArduinoSerialComWPF-master\ArduinoSerialComWPF-master\ArduinoSerialComWPF\obj\Debug\ArduinoSerialComWPF.g.resources
+C:\Users\rjhor\Downloads\ArduinoSerialComWPF-master\ArduinoSerialComWPF-master\ArduinoSerialComWPF\obj\Debug\ArduinoSerialComWPF.Properties.Resources.resources
+C:\Users\rjhor\Downloads\ArduinoSerialComWPF-master\ArduinoSerialComWPF-master\ArduinoSerialComWPF\obj\Debug\ArduinoSerialComWPF.csproj.GenerateResource.cache
+C:\Users\rjhor\Downloads\ArduinoSerialComWPF-master\ArduinoSerialComWPF-master\ArduinoSerialComWPF\obj\Debug\ArduinoSerialComWPF.csproj.CoreCompileInputs.cache
+C:\Users\rjhor\Downloads\ArduinoSerialComWPF-master\ArduinoSerialComWPF-master\ArduinoSerialComWPF\obj\Debug\ArduinoSerialComWPF.exe
+C:\Users\rjhor\Downloads\ArduinoSerialComWPF-master\ArduinoSerialComWPF-master\ArduinoSerialComWPF\obj\Debug\ArduinoSerialComWPF.pdb
+C:\Users\rjh55\OneDrive - University of Kent\EL562\interfacing lab\lab 4\ArduinoSerialComWPF-master\ArduinoSerialComWPF\bin\Debug\ArduinoSerialComWPF.exe.config
+C:\Users\rjh55\OneDrive - University of Kent\EL562\interfacing lab\lab 4\ArduinoSerialComWPF-master\ArduinoSerialComWPF\bin\Debug\ArduinoSerialComWPF.exe
+C:\Users\rjh55\OneDrive - University of Kent\EL562\interfacing lab\lab 4\ArduinoSerialComWPF-master\ArduinoSerialComWPF\bin\Debug\ArduinoSerialComWPF.pdb
+C:\Users\rjh55\OneDrive - University of Kent\EL562\interfacing lab\lab 4\ArduinoSerialComWPF-master\ArduinoSerialComWPF\obj\Debug\ArduinoSerialComWPF.csprojAssemblyReference.cache
+C:\Users\rjh55\OneDrive - University of Kent\EL562\interfacing lab\lab 4\ArduinoSerialComWPF-master\ArduinoSerialComWPF\obj\Debug\MainWindow.g.cs
+C:\Users\rjh55\OneDrive - University of Kent\EL562\interfacing lab\lab 4\ArduinoSerialComWPF-master\ArduinoSerialComWPF\obj\Debug\App.g.cs
+C:\Users\rjh55\OneDrive - University of Kent\EL562\interfacing lab\lab 4\ArduinoSerialComWPF-master\ArduinoSerialComWPF\obj\Debug\ArduinoSerialComWPF_MarkupCompile.cache
+C:\Users\rjh55\OneDrive - University of Kent\EL562\interfacing lab\lab 4\ArduinoSerialComWPF-master\ArduinoSerialComWPF\obj\Debug\ArduinoSerialComWPF_MarkupCompile.lref
+C:\Users\rjh55\OneDrive - University of Kent\EL562\interfacing lab\lab 4\ArduinoSerialComWPF-master\ArduinoSerialComWPF\obj\Debug\MainWindow.baml
+C:\Users\rjh55\OneDrive - University of Kent\EL562\interfacing lab\lab 4\ArduinoSerialComWPF-master\ArduinoSerialComWPF\obj\Debug\ArduinoSerialComWPF.g.resources
+C:\Users\rjh55\OneDrive - University of Kent\EL562\interfacing lab\lab 4\ArduinoSerialComWPF-master\ArduinoSerialComWPF\obj\Debug\ArduinoSerialComWPF.Properties.Resources.resources
+C:\Users\rjh55\OneDrive - University of Kent\EL562\interfacing lab\lab 4\ArduinoSerialComWPF-master\ArduinoSerialComWPF\obj\Debug\ArduinoSerialComWPF.csproj.GenerateResource.cache
+C:\Users\rjh55\OneDrive - University of Kent\EL562\interfacing lab\lab 4\ArduinoSerialComWPF-master\ArduinoSerialComWPF\obj\Debug\ArduinoSerialComWPF.csproj.CoreCompileInputs.cache
+C:\Users\rjh55\OneDrive - University of Kent\EL562\interfacing lab\lab 4\ArduinoSerialComWPF-master\ArduinoSerialComWPF\obj\Debug\ArduinoSerialComWPF.exe
+C:\Users\rjh55\OneDrive - University of Kent\EL562\interfacing lab\lab 4\ArduinoSerialComWPF-master\ArduinoSerialComWPF\obj\Debug\ArduinoSerialComWPF.pdb
